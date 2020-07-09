@@ -1,5 +1,5 @@
 {
-  "name": "@purecloud/iframe-coordinator",
+  "name": "iframe-coordinator",
   "version": "4.1.3",
   "description": "Tools for coordinating embedded apps via iframes.",
   "dependencies": {
